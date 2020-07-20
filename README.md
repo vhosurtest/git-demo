@@ -5,4 +5,4 @@ This is my first file in the project git-demo.
 This is my first edit to the README.md file.
 
 ### Sample third level heading
-This time, I'm adding and commiting README.md at the same time.
+This time, I'm adding and commiting README.md.
